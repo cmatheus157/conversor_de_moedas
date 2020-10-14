@@ -2,11 +2,13 @@
 
 Projeto feito para Prova de desenvolvedor Flutter
 
-Nele utilizo os  pacote Get para dependency injection,route management e state management.
+Nele utilizo os  pacote Get https://pub.dev/packages/get para dependency injection,route management e state management.
 
-Utilizo o Pacote Hive para persistência de dados localmente. 
+Utilizo o Pacote Hive https://docs.hivedb.dev/#/ para persistência de dados localmente. 
 
 Utilizo a Api de moedas https://exchangeratesapi.io/. 
+
+Utilizo como Padrão Projeto o GetPattern por modulos https://kauemurakami.github.io/getx_pattern/.
 
 
 ## Getting Started
