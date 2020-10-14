@@ -2,7 +2,7 @@
 
 Projeto feito para Prova de desenvolvedor Flutter
 
-nele utilizo os  pacote Get para dependency injection,route management e state management.
+Nele utilizo os  pacote Get para dependency injection,route management e state management.
 
 Utilizo o Pacote Hive para persistência de dados localmente. 
 
