@@ -83,12 +83,16 @@ class ConversionView extends GetView<ConversionController> {
                   keyboardType: TextInputType.number,
                 ),
               ),
-              FlatButton(
-                  onPressed: () async {
-                    print(controller.dropdownValue.value);
-                    controller.convert();
-                  },
-                  child: Text('Converter'))
+              Center(
+                child: FlatButton(
+                    color: Color(0xFFFFBA5C),
+                    textColor: Colors.white,
+                    onPressed: () async {
+                      print(controller.dropdownValue.value);
+                      controller.convert();
+                    },
+                    child: Text('Converter')),
+              )
             ],
           ),
         ),
