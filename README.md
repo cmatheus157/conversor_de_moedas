@@ -1,6 +1,13 @@
 # conversor_de_moedas
 
-A new Flutter project.
+Projeto feito para Prova de desenvolvedor Flutter
+
+nele utilizo os  pacote Get para dependency injection,route management e state management.
+
+Utilizo o Pacote Hive para persistência de dados localmente. 
+
+Utilizo a Api de moedas https://exchangeratesapi.io/. 
+
 
 ## Getting Started
 
